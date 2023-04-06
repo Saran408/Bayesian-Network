@@ -86,7 +86,8 @@ plt.axis("off")
 plt.show()
 ```
 ## OUTPUT
-![image](https://user-images.githubusercontent.com/75234991/228883229-cd760fc4-4e5d-40ca-8252-f4d33c8351b2.png)
+![Screenshot 2023-04-06 161942](https://user-images.githubusercontent.com/75235427/230356094-90e417ab-c180-4070-b154-f49e7a749522.jpg)
+
 
 ## RESULT
 Thus, a Bayesian Network is generated using Python.
